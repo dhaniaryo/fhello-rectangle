@@ -18,4 +18,4 @@
  - Text is centered in the Container widget, and center-aligned.
 
 ## Screenshots
-<img src='https://lh3.google.com/u/1/d/1k2e7PTxKrs3CSNrCim4QOQXvKEPVIg5Y=w1366-h667-iv1' width='350'>
+Use this link to see screenshot : https://drive.google.com/file/d/1k2e7PTxKrs3CSNrCim4QOQXvKEPVIg5Y/view?usp=sharing
